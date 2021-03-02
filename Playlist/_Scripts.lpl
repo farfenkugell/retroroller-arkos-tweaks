@@ -1,0 +1,67 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 3,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/usr/share/rrvl/scripts/moonlight.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+	{
+      "path": "/usr/share/rrvl/scripts/fix_logo.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+	    {
+      "path": "/usr/share/rrvl/scripts/gmenu2x.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+    {
+      "path": "/usr/share/rrvl/scripts/update.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+	    {
+      "path": "/usr/share/rrvl/scripts/flash_uboot.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+	    {
+      "path": "/usr/share/rrvl/scripts/ppsspp.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    },
+	    {
+      "path": "/usr/share/rrvl/scripts/reset_rrvl.sh",
+      "label": "",
+      "core_path": "/home/odroid/.config/retroarch/cores/spring_shell_libretro.so",
+      "core_name": "Spring Run Command",
+      "crc32": "",
+      "db_name": "_Scripts.lpl"
+    }
+  ]
+}
