@@ -12,8 +12,8 @@ repository=https://rrvl.chaoticneutral.eu/rrvl
 **Stock dead Repository removing** <br>
 sudo rm /etc/xbps.d/20-rrvl.conf
 
-**Updates installation**
-sudo xbps-install -Su
-sudo xbps-install -S moonlight-embedded
-sudo xdowngrade moonlight-embedded-2.4.11_16.aarch64.xbps
-sudo reboot
+**Updates installation** <br>
+sudo xbps-install -Su <br>
+sudo xbps-install -S moonlight-embedded <br>
+sudo xdowngrade moonlight-embedded-2.4.11_16.aarch64.xbps <br>
+sudo reboot <br>
