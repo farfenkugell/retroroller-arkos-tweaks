@@ -9,7 +9,7 @@ sudo xbps-install nano
 sudo nano /etc/xbps.d/10-chaotic.conf
 repository=https://rrvl.chaoticneutral.eu/rrvl
 
-**Stock dead Repository removing**
+**Stock dead Repository removing** <br>
 sudo rm /etc/xbps.d/20-rrvl.conf
 
 **Updates installation**
