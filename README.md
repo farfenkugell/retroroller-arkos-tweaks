@@ -6,7 +6,7 @@ In order to have latest RRVL build with latest packages, you need to do some ext
 sudo xbps-install nano
 
 **Repository adding**
-sudo nano /etc/xbps.d/10-chaotic.conf
+sudo nano /etc/xbps.d/10-chaotic.conf <br>
 repository=https://rrvl.chaoticneutral.eu/rrvl
 
 **Stock dead Repository removing** <br>
